@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizApp2020</string>
+    <string name="q0Text">Computer Science is fun!</string>
+    <string name="q1Text">Pi = 3</string>
+    <string name="q2Text">Pi = C/d</string>
+    <string name="q3Text">Pi is transcendental</string>
+    <string name="q4Text">Pi is rational</string>
+    <string name="trueButtonText">TRUE</string>
+    <string name="falseButtonText">FALSE</string>
+    <string name="nextButtonText">NEXT</string>
+    <string name="correctMessage">Hooray - you got it right!!!</string>
+    <string name="incorrectMessage">Wrong!!!!!!!!!!!!</string>
+    <string name="scoreMessage">Score: </string>
+</resources>
